@@ -1,4 +1,4 @@
-package ru;
+/*package ru;
 
 import org.junit.Assert;
 import org.junit.Test;
@@ -27,7 +27,9 @@ public class ConverterTest {
         int expected = 140;
         int out = Converter.euroToRuble(in);
         Assert.assertEquals(expected, out);
-    }
+
+ */
+
    /* @Test
     public void dollarToRuble() {
         int in = 3;
@@ -35,4 +37,3 @@ public class ConverterTest {
         int out = Converter.rubleToEuro(in);
         Assert.assertEquals(expected, out);
     }*/
-}
