@@ -27,7 +27,7 @@ public class SqMaxTest {
         assertThat(result, is(7));
     }
     @Test
-    public void WhenEq() {
+    public void WhenEq1() {
         int result = SqMax.max(6, 6, 6,6);
         assertThat(result, is(6));
     }
