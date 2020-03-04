@@ -5,6 +5,7 @@ import org.junit.Test;
 import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.*;
 
+
 public class PrimeNumberTest {
     @Test
     public void when5() {
